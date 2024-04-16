@@ -17,6 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
   </header>
 
+  <!-- 此位置會將/src/router/index.js內的已註冊路由元件輸出畫面在這裡 -->
   <RouterView />
 </template>
 
