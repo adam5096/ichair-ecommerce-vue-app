@@ -1,11 +1,6 @@
-<template lang="">
-    <div>
-        我是HomeView
-    </div>
+<template>
+    <Banner />
 </template>
 <script setup>
-
+import Banner from '../components/Banner.vue'
 </script>
-<style lang="">
-    
-</style>
