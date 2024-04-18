@@ -1,5 +1,5 @@
 # [資料來源](https://www.youtube.com/@DStudioTechnology)
-# 個人練習教材，請勿挪用商業用途 
+# 個人練習教材，請勿挪用商業用途
 # ichair-ecommerce-vue-app
 
 This template should help get you started developing with Vue 3 in Vite.
