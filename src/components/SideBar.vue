@@ -51,7 +51,7 @@ const handleToggleMenu = () => {
     transition: ease 1s;
 }
 
-/* 動態樣式 */
+/* 側邊欄選單icon動態樣式 */
 .menu.active{
     transform: rotateZ(180deg);
 }
