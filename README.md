@@ -1,4 +1,4 @@
-# 🚀商業電商網站 ichair-ecommerce-vue-app
+# 🚀電商網站 ichair-ecommerce-vue-app
 # 🔗[原作者+參考資料來源](https://www.youtube.com/@DStudioTechnology)
 # 🚫個人練習教材，請勿挪用商業用途
 
